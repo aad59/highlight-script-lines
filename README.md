@@ -18,7 +18,7 @@ This project is a Python program designed to highlight all of Gloria's lines in 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/gloria-line-highlighter.git
+   git clone https://github.com/aad59/gloria-line-highlighter.git
    ```
 2. Install the required libraries:
    ```bash
