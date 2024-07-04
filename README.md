@@ -7,14 +7,3 @@ See `vera_stark.pdf` to view the input file and `gloria.pdf` to view the output 
 ## Libraries
 - `pymupdf` for PDF processing
 - `re` for regular expression matching
-
-## Run This Project Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aad59/gloria-line-highlighter.git
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install pymupdf
-   ```
